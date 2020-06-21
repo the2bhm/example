@@ -32,4 +32,5 @@ cpu_occupancy = prometheus.NewGauge(prometheus.GaugeOpts{
 
 ![result](result.PNG)
 
+
 ![result1](result1.PNG)
